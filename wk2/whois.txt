@@ -1,0 +1,147 @@
+     Name: wikipedia.org
+    Registry Domain ID: D51687756-LROR
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+    Nameservers:
+
+    ns0.wikimedia.org: 208.80.154.238
+
+    ns1.wikimedia.org: 208.80.153.231
+
+    ns2.wikimedia.org: 91.198.174.239
+
+Dates
+
+    Registry Expiration: 2023-01-13 00:12:14 UTC
+    Updated: 2020-10-15 22:29:57 UTC
+    Created: 2001-01-13 00:12:14 UTC
+
+
+     Name: FACEBOOK.COM
+    Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    A.NS.FACEBOOK.COM
+
+    B.NS.FACEBOOK.COM
+
+    C.NS.FACEBOOK.COM
+
+    D.NS.FACEBOOK.COM
+
+Dates
+
+    Registry Expiration: 2028-03-30 04:00:00 UTC
+    Created: 1997-03-29 05:00:00 UTC
+
+     Name: TWITTER.COM
+    Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    A.R06.TWTRDNS.NET
+
+    B.R06.TWTRDNS.NET
+
+    C.R06.TWTRDNS.NET
+
+    D.R06.TWTRDNS.NET
+
+    D01-01.NS.TWTRDNS.NET
+
+    D01-02.NS.TWTRDNS.NET
+
+    NS3.P34.DYNECT.NET
+
+    NS4.P34.DYNECT.NET
+
+Dates
+
+    Registry Expiration: 2022-01-21 16:28:17 UTC
+    Created: 2000-01-21 16:28:17 UTC
+
+     Name: INSTAGRAM.COM
+    Registry Domain ID: 121748357_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    NS-1349.AWSDNS-40.ORG
+
+    NS-2016.AWSDNS-60.CO.UK
+
+    NS-384.AWSDNS-48.COM
+
+    NS-868.AWSDNS-44.NET
+
+Dates
+
+    Registry Expiration: 2027-06-04 13:37:18 UTC
+    Created: 2004-06-04 13:37:18 UTC
+
+     Name: YOUTUBE.COM
+    Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    NS1.GOOGLE.COM
+
+    NS2.GOOGLE.COM
+
+    NS3.GOOGLE.COM
+
+    NS4.GOOGLE.COM
+
+Dates
+
+    Registry Expiration: 2022-02-15 05:13:12 UTC
+    Created: 2005-02-15 05:13:12 UTC

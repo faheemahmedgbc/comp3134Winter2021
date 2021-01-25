@@ -1,0 +1,57 @@
+https://www.whatismyip.com/dns-lookup/
+
+IPv4 address for www.google.ca
+Domain Name Server: 172.217.204.94
+
+IPv4 address for www.youtube.com
+Domain Name Server: 173.194.210.136
+Domain Name Server: 173.194.213.190
+Domain Name Server: 173.194.214.136
+Domain Name Server: 173.194.215.136
+Domain Name Server: 173.194.216.91
+Domain Name Server: 173.194.216.190
+Domain Name Server: 173.194.216.93
+Domain Name Server: 173.194.216.136
+Domain Name Server: 173.194.217.190
+Domain Name Server: 173.194.217.91
+Domain Name Server: 173.194.217.136
+Domain Name Server: 173.194.217.93
+Domain Name Server: 173.194.218.190
+Domain Name Server: 64.233.170.93
+Domain Name Server: 64.233.170.190
+Domain Name Server: 108.177.11.93
+
+IPv4 address for facebook.com
+Domain Name Server: 157.240.14.35
+
+
+Checking Domain Name
+
+Domain Name: instagram.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 54.224.32.249
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS: ec2-54-224-32-249.compute-1.amazonaws.com
+
+
+Checking Domain Name
+
+Domain Name: netflix.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 54.236.93.206
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS: ec2-54-236-93-206.compute-1.amazonaws.com
+
+
