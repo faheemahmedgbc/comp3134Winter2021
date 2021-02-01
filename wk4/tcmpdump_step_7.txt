@@ -1,0 +1,22 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+21:47:49.525237 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 3899635088:3899635132, ack 1263493234, win 501, length 44
+21:47:49.525388 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 44:152, ack 1, win 501, length 108
+21:47:49.525494 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 152:188, ack 1, win 501, length 36
+21:47:49.560948 IP dhcp-108-168-18-232.cable.user.start.ca.60452 > 134.122.47.169.ssh: Flags [.], ack 44, win 1024, length 0
+21:47:49.561013 IP dhcp-108-168-18-232.cable.user.start.ca.60452 > 134.122.47.169.ssh: Flags [.], ack 188, win 1024, length 0
+21:47:53.439340 IP 194.147.140.90.48735 > 134.122.47.169.7979: Flags [S], seq 3972094028, win 1024, length 0
+21:47:54.996582 IP 194.147.140.93.52752 > 134.122.47.169.39367: Flags [S], seq 763433153, win 1024, length 0
+21:47:55.646715 IP 185.236.11.7.49816 > 134.122.47.169.4595: Flags [S], seq 2165822774, win 1024, length 0
+21:47:57.388660 IP 119.29.110.249.48204 > 134.122.47.169.ssh: Flags [S], seq 3345816467, win 29200, options [mss 1424,sackOK,TS val 1532334194 ecr 0,nop,wscale 7], length 0
+21:47:57.388737 IP 134.122.47.169 > 119.29.110.249: ICMP 134.122.47.169 tcp port ssh unreachable, length 68
+21:47:59.571246 IP 123.206.81.59.34970 > 134.122.47.169.ssh: Flags [FP.], seq 990008055:990008107, ack 494065528, win 262, options [nop,nop,TS val 2865477200 ecr 3998281662], length 52
+21:47:59.571313 IP 134.122.47.169 > 123.206.81.59: ICMP 134.122.47.169 tcp port ssh unreachable, length 112
+21:48:02.182548 IP 222-153-112-136-fibre.sparkbb.co.nz.34478 > 134.122.47.169.ssh: Flags [S], seq 295035928, win 29200, options [mss 1452,sackOK,TS val 100301640 ecr 0,nop,wscale 7], length 0
+21:48:02.182620 IP 134.122.47.169 > 222-153-112-136-fibre.sparkbb.co.nz: ICMP 134.122.47.169 tcp port ssh unreachable, length 68
+21:48:02.297181 IP 134.122.47.169.ssh > 61.177.173.10.38850: Flags [F.], seq 1129989980, ack 2202939712, win 503, options [nop,nop,TS val 1007233904 ecr 138994767], length 0
+21:48:02.530662 IP 61.177.173.10.38850 > 134.122.47.169.ssh: Flags [R], seq 2202939712, win 0, length 0
+21:48:02.530744 IP 134.122.47.169 > 61.177.173.10: ICMP 134.122.47.169 tcp port ssh unreachable, length 48
+21:48:04.847192 IP 134.122.47.169.ssh > 123.206.81.59.34970: Flags [P.], seq 4294967229:1, ack 0, win 507, options [nop,nop,TS val 3998316478 ecr 2865460312], length 68
+21:48:05.068915 IP 123.206.81.59.34970 > 134.122.47.169.ssh: Flags [.], ack 1, win 262, options [nop,nop,TS val 2865478574 ecr 3998316478,nop,nop,sack 1 {4294967229:1}], length 0
+21:48:05.068985 IP 134.122.47.169 > 123.206.81.59: ICMP 134.122.47.169 tcp port ssh unreachable, length 72

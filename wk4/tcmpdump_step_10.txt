@@ -1,0 +1,46 @@
+21:51:26.943795 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1615808:1615996, ack 901, win 501, length 188
+21:51:26.943938 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1615996:1616184, ack 901, win 501, length 188
+21:51:26.944023 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1616184:1616372, ack 901, win 501, length 188
+21:51:26.944105 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1616372:1616560, ack 901, win 501, length 188
+21:51:26.944188 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1616560:1616748, ack 901, win 501, length 188
+21:51:26.944267 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1616748:1616936, ack 901, win 501, length 188
+21:51:26.944350 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1616936:1617124, ack 901, win 501, length 188
+21:51:26.944429 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1617124:1617312, ack 901, win 501, length 188
+21:51:26.944512 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1617312:1617500, ack 901, win 501, length 188
+21:51:26.944590 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1617500:1617688, ack 901, win 501, length 188
+21:51:26.944689 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1617688:1617876, ack 901, win 501, length 188
+21:51:26.944788 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1617876:1618064, ack 901, win 501, length 188
+21:51:26.944906 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1618064:1618252, ack 901, win 501, length 188
+21:51:26.944997 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1618252:1618440, ack 901, win 501, length 188
+21:51:26.945078 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1618440:1618628, ack 901, win 501, length 188
+21:51:26.945163 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1618628:1618816, ack 901, win 501, length 188
+21:51:26.945242 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1618816:1619004, ack 901, win 501, length 188
+21:51:26.945322 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619004:1619192, ack 901, win 501, length 188
+21:51:26.945406 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619192:1619380, ack 901, win 501, length 188
+21:51:26.945485 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619380:1619568, ack 901, win 501, length 188
+21:51:26.945569 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619568:1619756, ack 901, win 501, length 188
+21:51:26.945648 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619756:1619944, ack 901, win 501, length 188
+21:51:26.945733 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1619944:1620132, ack 901, win 501, length 188
+21:51:26.945813 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1620132:1620320, ack 901, win 501, length 188
+21:51:26.945891 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1620320:1620508, ack 901, win 501, length 188
+21:51:26.945975 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1620508:1620696, ack 901, win 501, length 188
+21:51:26.946054 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1620696:1620884, ack 901, win 501, length 188
+21:51:26.946138 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1620884:1621072, ack 901, win 501, length 188
+21:51:26.946222 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1621072:1621260, ack 901, win 501, length 188
+21:51:26.946302 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1621260:1621448, ack 901, win 501, length 188
+21:51:26.946385 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1621448:1621636, ack 901, win 501, length 188
+21:51:26.946463 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1621636:1621824, ack 901, win 501, length 188
+21:51:26.946546 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1621824:1622012, ack 901, win 501, length 188
+21:51:26.946624 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622012:1622200, ack 901, win 501, length 188
+21:51:26.946703 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622200:1622388, ack 901, win 501, length 188
+21:51:26.946788 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622388:1622576, ack 901, win 501, length 188
+21:51:26.946871 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622576:1622764, ack 901, win 501, length 188
+21:51:26.947014 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622764:1622952, ack 901, win 501, length 188
+21:51:26.947139 IP 134.122.47.169.ssh > dhcp-108-168-18-232.cable.user.start.ca.60452: Flags [P.], seq 1622952:1623140, ack 901, win 501, length 188
+21:51:26.947174 IP dhcp-108-168-18-232.cable.user.start.ca.60452 > 134.122.47.169.ssh: Flags [P.], seq 901:973, ack 1583080, win 1024, length 72
+21:51:26.947184 IP dhcp-108-168-18-232.cable.user.start.ca.60452 > 134.122.47.169.ssh: Flags [.], ack 1589096, win 1021, length 0
+21:51:26.947203 IP dhcp-108-168-18-232.cable.user.start.ca.60452 > 134.122.47.169.ssh: Flags [.], ack 1598624, win 1023, length 0
+^C
+8730 packets captured
+8730 packets received by filter
+0 packets dropped by kernel
